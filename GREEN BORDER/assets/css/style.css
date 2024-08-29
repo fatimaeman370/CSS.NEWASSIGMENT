@@ -1,0 +1,56 @@
+.parent{
+    border-top: 10px solid rgb(74, 164, 74);
+    width:100% ;
+    display: flex;
+    justify-content: space-evenly;
+    
+
+
+}
+.main1{
+    width: 20%;
+    padding: 10px;
+
+}
+.submain1{
+    display: flex;
+
+}
+.aa{
+    background-color:rgb(74, 164, 74) ;
+     color: white;
+     border-radius: 50%;
+     font-size:2rem ;
+   
+}
+.bb{
+    color: blue;
+    font-size:1rem;
+    padding-left: 15px;
+
+}
+.cc{
+    color: rgb(74, 164, 74) ;
+    font-size: 8px;
+    padding-left:20px;
+}
+.dd{
+    font-size: 10px;
+    padding-left: 15px;
+}
+.main2{
+    width: 20%;
+    padding: 10px;
+
+}
+.main3{
+    width: 20%;
+    padding: 10px;
+
+}
+.main4{ 
+    width: 20%;
+    padding: 10px;
+}
+
+
